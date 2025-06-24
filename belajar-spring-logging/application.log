@@ -1,0 +1,20 @@
+2025-06-24T16:43:27.266+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99984
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99985
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99986
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99987
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99988
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99989
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99990
+2025-06-24T16:43:27.268+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99991
+2025-06-24T16:43:27.269+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99992
+2025-06-24T16:43:27.269+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99993
+2025-06-24T16:43:27.269+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99994
+2025-06-24T16:43:27.270+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99995
+2025-06-24T16:43:27.271+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99996
+2025-06-24T16:43:27.271+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99997
+2025-06-24T16:43:27.271+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99998
+2025-06-24T16:43:27.271+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Hello warn 99999
+2025-06-24T16:43:27.323+07:00  WARN 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2025-06-24T16:43:27.325+07:00 ERROR 5132 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Zaman Now
+2025-06-24T16:49:05.500+07:00  WARN 8504 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Spring
+2025-06-24T16:49:05.502+07:00 ERROR 8504 --- [belajar-spring-logging] [main] p.belajar_spring_logging.LoggingTest     : Belajar Programmer Zaman Now
